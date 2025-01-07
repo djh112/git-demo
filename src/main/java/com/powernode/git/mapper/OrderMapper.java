@@ -1,4 +1,4 @@
 package com.powernode.git.mapper;
 
-public class OrderMapper {
+public interface OrderMapper {
 }
